@@ -1,0 +1,12 @@
+
+train: ../train_data/images/train
+val: ../train_data/images/val
+
+# number of classes
+nc: 3
+
+# Classes
+names:
+  0: 20 peso
+  1: 10 Peso
+  2: 5 Peso
